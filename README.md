@@ -9,3 +9,4 @@ Gran blog para el curso profesional de Git y Github de Platzi 💚
 - Ejemplos practicos en Windows, Linux y Mac
 * Creado por Jose Reyes
 * Ejemplos multiplataformas
+* Disponible para todas las edades
